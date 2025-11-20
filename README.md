@@ -22,9 +22,6 @@
 - CSS styling & layouts  
 - How to build simple websites from scratch
 
-### 📫 Contact  
-- **Email:** (Apna email add kar dena)
-
 ---
 
 ⭐ *Learning Web Development step-by-step. Focused on writing clean code and building real projects.*
